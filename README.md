@@ -3,7 +3,7 @@
 A simple and elegant **React Native fitness tracking application** built with **Expo**.  
 The app helps users **log workouts, monitor calories, track weekly progress, and visualize fitness data** in an intuitive dashboard.  
 
----
+
 
 ## ✨ Features
 
@@ -13,7 +13,7 @@ The app helps users **log workouts, monitor calories, track weekly progress, and
 - ➕ **Add Activity** – Log new activities with duration & calories  
 - 📈 **Charts & Analytics** – Interactive bar charts for calories, workout count, and duration  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -21,3 +21,12 @@ The app helps users **log workouts, monitor calories, track weekly progress, and
 - **AsyncStorage** – Local data persistence  
 - **React Native Chart Kit** – Beautiful charts and visualizations  
 - **JavaScript (ES6+)**  
+
+
+👩‍💻 Author
+
+Developed by Sumaira Ramzan ✨ As a part of internship in CodeAlpha
+
+GitHub: @sumairaramzan244
+
+LinkedIn: www.linkedin.com/in/sumaira-ramzan
