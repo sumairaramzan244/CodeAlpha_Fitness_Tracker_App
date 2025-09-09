@@ -23,9 +23,9 @@ The app helps users **log workouts, monitor calories, track weekly progress, and
 - **JavaScript (ES6+)**  
 
 
-👩‍💻 Author
+## 👩‍💻Author
 
-Developed by Sumaira Ramzan ✨ As a part of internship in CodeAlpha
+Developed by Sumaira Ramzan  As a part of internship in CodeAlpha
 
 GitHub: @sumairaramzan244
 
