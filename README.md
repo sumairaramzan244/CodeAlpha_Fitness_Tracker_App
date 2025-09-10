@@ -27,6 +27,6 @@ The app helps users **log workouts, monitor calories, track weekly progress, and
 
 Developed by Sumaira Ramzan  As a part of internship in CodeAlpha
 
-GitHub: @sumairaramzan244
+- 🌐 GitHub: https://github.com/sumairaramzan244 
+- 💼 LinkedIn: https://www.linkedin.com/in/sumaira-ramzan 
 
-LinkedIn: www.linkedin.com/in/sumaira-ramzan
